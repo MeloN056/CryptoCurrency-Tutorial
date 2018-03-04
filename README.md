@@ -1,1 +1,3 @@
-# CryptoCurrency-Tutorial
+# 暗号通貨の仕組みを知ろう
+
+Yoritaによる暗号通貨勉強リポジトリです。
